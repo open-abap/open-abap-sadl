@@ -1,0 +1,22 @@
+{
+  "name": "open-abap-sadl",
+  "version": "1.0.0",
+  "private": true,
+  "description": "open-abap-sadl",
+  "scripts": {
+    "test": "abaplint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-abap/open-abap-sadl.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/open-abap/open-abap-sadl/issues"
+  },
+  "homepage": "https://github.com/open-abap/open-abap-sadl#readme",
+  "dependencies": {
+    "@abaplint/cli": "^2.119.53"
+  }
+}
