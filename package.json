@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/open-abap/open-abap-sadl#readme",
   "dependencies": {
-    "@abaplint/cli": "^2.113.146"
+    "@abaplint/cli": "^2.119.53"
   }
 }
