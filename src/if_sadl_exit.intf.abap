@@ -1,0 +1,3 @@
+INTERFACE if_sadl_exit PUBLIC.
+
+ENDINTERFACE.
